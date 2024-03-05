@@ -2,6 +2,8 @@
 <!--START_SECTION:waka-->
 
 ```c++
+From: 07 January 2024 - To: 05 March 2024
+
 Total Time: 76 hrs 50 mins
 
 C++               21 hrs 10 mins  ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.11 %
