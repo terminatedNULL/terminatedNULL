@@ -20,3 +20,5 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TOTAL: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          IGNORED_LANGUAGES: OTHER
+          SHOW_MASKED_TIME: false
