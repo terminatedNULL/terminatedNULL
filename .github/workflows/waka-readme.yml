@@ -22,4 +22,4 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           IGNORED_LANGUAGES: OTHER
           SHOW_MASKED_TIME: false
-          SHOW_TOTAL: true
+          SHOW_TIME: true
