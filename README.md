@@ -1,3 +1,5 @@
+<span style="font-size:30px"> \[ terminatedNULL \] : </span> ``` the terminator of a multibyte string which consists of one byte whose value is 0 ```
+
 ### Time Statistics                                                          
 <!--START_SECTION:waka-->
 
