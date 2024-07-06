@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <th> <h1> [ terminatedNULL ]</h1></th>
+    <th> <h1> terminatedNULL</h1></th>
     <th> <code> the terminator of a multibyte string which consists of one byte whose value is 0 </code> </th>
   </tr>
 </table>
