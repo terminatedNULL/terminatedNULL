@@ -1,12 +1,14 @@
-<table>
-  <tr>
-    <th> <h1> terminatedNULL</h1></th>
-    <th> <code> the terminator of a multibyte string which consists of one byte whose value is 0 </code> </th>
-  </tr>
-</table>
-
-- I'm a software dev specializing in backend development. I enjoy using low-level languages like C and C++.
-## 
+```
+  _                      _             _           _ _   _ _   _ _     _             ⣿⣿⡿⠇          ⠸⢿⣿⣿
+ | |_ ___ _ __ _ __ ___ (_)_ __   __ _| |_ ___  __| | \ | | | | | |   | |            ⣿⣿⡇   ⢸⣿⣿⣿⡇   ⢸⣿⣿
+ | __/ _ \ '__| '_ ` _ \| | '_ \ / _` | __/ _ \/ _` |  \| | | | | |   | |            ⣿⣿⡇     ⢸⢸ ​​​​​​​    ⢸⣿⣿
+ | ||  __/ |  | | | | | | | | | | (_| | ||  __/ (_| | |\  | |_| | |___| |___         ⣿⣿⡇     ⢸⢸     ⢸⣿⣿
+  \__\___|_|  |_| |_| |_|_|_| |_|\__,_|\__\___|\__,_|_| \_|\___/|_____|_____|        ⣿⣿⣷⡆          ⢰⣾⣿⣿
+                                                                             
+```
+```
+- I'm a backend developer specializing in C, C++, and Kotlin.
+```
 <!--START_SECTION:waka-->
 
 ```c++
