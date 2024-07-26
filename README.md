@@ -6,9 +6,12 @@
   \__\___|_|  |_| |_| |_|_|_| |_|\__,_|\__\___|\__,_|_| \_|\___/|_____|_____|        ⣿⣿⣷⡆          ⢰⣾⣿⣿
                                                                              
 ```
+
 ```
-- I'm a backend developer specializing in C, C++, and Kotlin.
+⁃ I'm a backend developer specializing in C, C++, and Kotlin.
+⁃ My earlier, sillier projects can be found on my Replit
 ```
+
 <!--START_SECTION:waka-->
 
 ```c++
