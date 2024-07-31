@@ -28,7 +28,7 @@ Dart                  19 hrs 1 min    ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terminatedNULL)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terminatedNULL&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,kotlin)](https://skillicons.dev)
