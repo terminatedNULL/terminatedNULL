@@ -24,3 +24,4 @@ jobs:
           SHOW_TIME: true
           SHOW_TITLE: true
           LANG_COUNT: 10
+          IGNORED_LANGUAGES: OTHER
