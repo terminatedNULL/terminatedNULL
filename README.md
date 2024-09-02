@@ -15,15 +15,16 @@
 <!--START_SECTION:waka-->
 
 ```c++
-From: 07 January 2024 - To: 30 August 2024
+From: 07 January 2024 - To: 31 August 2024
 
-Total Time: 202 hrs 52 mins
+Total Time: 204 hrs 14 mins
 
-Kotlin                91 hrs 13 mins  ◆◆◆◆◆◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   30.89 %
-Java                  34 hrs 55 mins  ◆◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   11.82 %
-C++                   29 hrs 45 mins  ◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   10.08 %
-Dart                  19 hrs 1 min    ◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   06.44 %
-PowerShell            4 hrs 25 mins   ◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   01.50 %
+Kotlin                92 hrs 31 mins  ◆◆◆◆◆◆◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   31.19 %
+Other                 92 hrs 27 mins  ◆◆◆◆◆◆◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   31.16 %
+Java                  34 hrs 55 mins  ◆◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   11.77 %
+C++                   29 hrs 45 mins  ◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   10.03 %
+Dart                  19 hrs 1 min    ◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   06.41 %
+PowerShell            4 hrs 25 mins   ◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   01.49 %
 ```
 
 <!--END_SECTION:waka-->
