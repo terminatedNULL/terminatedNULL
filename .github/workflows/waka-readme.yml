@@ -24,5 +24,3 @@ jobs:
           SHOW_TIME: true
           SHOW_TITLE: true
           LANG_COUNT: 6
-          IGNORED_LANGUAGES: Other
-          SHOW_LINES_OF_CODE: true
