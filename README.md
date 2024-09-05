@@ -9,7 +9,8 @@
 
 ```
 ⁃ I'm a backend developer specializing in C, C++, and Kotlin.
-⁃ My earlier, sillier projects can be found on my Replit
+
+"An idiot admires complexity. A genius admires simplicity." -Terry A. Davis
 ```
 
 <!--START_SECTION:waka-->
