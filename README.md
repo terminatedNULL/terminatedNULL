@@ -16,9 +16,9 @@
 <!--START_SECTION:waka-->
 
 ```c++
-From: 07 January 2024 - To: 29 September 2024
+From: 07 January 2024 - To: 30 September 2024
 
-Total Time: 292 hrs 51 mins
+Total Time: 292 hrs 52 mins
 
 Kotlin                138 hrs 43 mins ◆◆◆◆◆◆◆◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   36.00 %
 Other                 92 hrs 28 mins  ◆◆◆◆◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   24.00 %
