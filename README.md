@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```c++
-From: 07 January 2024 - To: 13 November 2024
+From: 07 January 2024 - To: 14 November 2024
 
 Total Time: 354 hrs 1 min
 
@@ -25,7 +25,7 @@ Other                 92 hrs 28 mins  ◆◆◆◆◆◇◇◇◇◇◇◇◇◇
 Java                  52 hrs 44 mins  ◆◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   11.81 %
 C++                   40 hrs 54 mins  ◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   09.16 %
 JavaScript            26 hrs 32 mins  ◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   05.94 %
-C                     25 hrs 4 mins   ◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   05.62 %
+C                     25 hrs 5 mins   ◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   05.62 %
 ```
 
 <!--END_SECTION:waka-->
