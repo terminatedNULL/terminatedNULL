@@ -16,16 +16,16 @@
 <!--START_SECTION:waka-->
 
 ```c++
-From: 07 January 2024 - To: 10 December 2024
+From: 07 January 2024 - To: 11 December 2024
 
-Total Time: 409 hrs 41 mins
+Total Time: 414 hrs 2 mins
 
-Kotlin                187 hrs 28 mins ◆◆◆◆◆◆◆◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   37.33 %
-Other                 92 hrs 30 mins  ◆◆◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   18.42 %
-Java                  57 hrs 55 mins  ◆◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   11.53 %
-C++                   40 hrs 54 mins  ◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   08.15 %
-JavaScript            26 hrs 38 mins  ◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   05.31 %
-C                     25 hrs 10 mins  ◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   05.01 %
+Kotlin                188 hrs 36 mins ◆◆◆◆◆◆◆◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   37.23 %
+Other                 92 hrs 30 mins  ◆◆◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   18.26 %
+Java                  59 hrs 56 mins  ◆◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   11.83 %
+C++                   40 hrs 56 mins  ◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   08.08 %
+JavaScript            26 hrs 38 mins  ◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   05.26 %
+C                     26 hrs 7 mins   ◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   05.16 %
 ```
 
 <!--END_SECTION:waka-->
