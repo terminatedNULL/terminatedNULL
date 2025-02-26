@@ -9,6 +9,7 @@
 
 ```
 ⁃ I'm a backend developer specializing in C, C++, and Kotlin.
+⁃ I run Xephyrous Development, we do some fun stuff.
 
 "An idiot admires complexity. A genius admires simplicity." -Terry A. Davis
 ```
