@@ -17,16 +17,16 @@
 <!--START_SECTION:waka-->
 
 ```c++
-From: 07 January 2024 - To: 30 March 2025
+From: 07 January 2024 - To: 31 March 2025
 
-Total Time: 551 hrs 6 mins
+Total Time: 551 hrs 9 mins
 
 Kotlin                210 hrs 45 mins ◆◆◆◆◆◆◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   32.73 %
-Other                 92 hrs 45 mins  ◆◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   14.41 %
+Other                 92 hrs 45 mins  ◆◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   14.40 %
 JavaScript            69 hrs 17 mins  ◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   10.76 %
 Java                  61 hrs 53 mins  ◆◆◈◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   09.61 %
 C++                   51 hrs 10 mins  ◆◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   07.95 %
-Python                31 hrs 5 mins   ◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   04.83 %
+Python                31 hrs 8 mins   ◆◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇◇   04.84 %
 ```
 
 <!--END_SECTION:waka-->
