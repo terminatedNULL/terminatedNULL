@@ -8,10 +8,9 @@
 ```
 
 ```
-⁃ I'm a backend developer specializing in C, C++, and Kotlin.
-⁃ I run Xephyrous Development, we do some fun stuff.
-
-"An idiot admires complexity. A genius admires simplicity." -Terry A. Davis
+⁃ I'm a backend developer specializing in C, C++, and Kotlin - but aim to be a jack of all trades (master of some).
+⁃ I run Xephyrous Development, a personal programming group creating and supporting various projects.
+- I'm part of the Neoreva team, helping create next-gen modern software solutions.
 ```
 
 <!--START_SECTION:waka-->
