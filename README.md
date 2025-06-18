@@ -60,8 +60,7 @@ C++                   52 hrs 43 mins  ◆◈◇◇◇◇◇◇◇◇◇◇◇◇
   <img src="https://img.shields.io/badge/Jython-025cda?style=for-the-badge&logo=apache&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=googlecloudstorage&logoColor=white">
 </p>
 
 <p align="center">
