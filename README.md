@@ -9,7 +9,7 @@
 
 ```
 ⁃ Backend developer specializing in C++, Kotlin/Java, and Python - aimimg to be a jack of all trades (master of some).
-⁃ Founder of Xephyrous Development, a personal programming group creating and supporting various projects.
+⁃ Founder of Xephyrous, a multimedia production and publishing company.
 - Part of the Neoreva team, helping create next-gen modern software solutions.
 ```
 
