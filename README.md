@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```c++
-From: 07 January 2024 - To: 23 February 2026
+From: 07 January 2024 - To: 24 February 2026
 
 Total Time: 1,169 hrs 14 mins
 
